@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo Saya Nurul Humam, Saya Mahasiswa Unversitas Pertamina Prodi Ilmu Komputer 👋
 
 <!--
 **nurhumam/nurhumam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
