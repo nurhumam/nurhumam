@@ -1,8 +1,9 @@
 ## Hallo Saya Nurul Humam, Saya Mahasiswa Unversitas Pertamina Prodi Ilmu Komputer 👋
 
 ### Temukan saya di:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram://user?username=nur.humamm)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085281262229)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nur.humamm)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285281262229)
+
 
 <!--
 **nurhumam/nurhumam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
